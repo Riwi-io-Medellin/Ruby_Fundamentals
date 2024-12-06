@@ -35,9 +35,6 @@ Ruby is a dynamic, open-source programming language with a focus on simplicity a
 - Exercises: Control Structures
 - Solutions: Control Structures
 
----
-
-## Temas Adicionales Sugeridos
 
 ### 6. **Methods in Ruby**
    - Creating and using methods
@@ -74,7 +71,3 @@ Ruby is a dynamic, open-source programming language with a focus on simplicity a
    - What are gems?
    - Installing and using gems
    - Creating your own gem
-
----
-
-Este listado cubre tanto los fundamentos básicos como temas intermedios para que los desarrolladores puedan adquirir una comprensión completa de Ruby. Puedes priorizar los temas según el nivel de tus estudiantes o la profundidad que quieras alcanzar.
