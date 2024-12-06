@@ -39,10 +39,11 @@ Ruby is a dynamic, open-source programming language with a focus on simplicity a
    - Exercises: Methods
    - Solutions: Methods
 
-### 7. **Data Types and Collections**
-   - Strings, numbers, and booleans
-   - Arrays, hashes, and ranges
-   - Symbols and their uses
+
+### 7. [Data Types and Collections](./07_data_types/data_types.md)
+   - Strings, numbers, and booleans / Arrays, hashes, and ranges / Symbols and their uses
+   - Exercises: Data Types and Collections
+   - Solutions: Data Types and Collections
 
 ### 8. **Classes and Objects**
    - Defining classes

@@ -312,4 +312,5 @@ For a comprehensive list of predefined methods, visit the [Ruby Documentation](h
 
 
 For practical exercises and challenges, refer to:
-### [Exercises: Methods ](./methods_solutions.md)
+
+- [Go to exercises: Control Structures](./exercise_methods.md)
