@@ -115,5 +115,4 @@ calculate_area(5)
 With these exercises, you'll get hands-on experience with local variables, instance variables, class variables, global variables, and constants in Ruby. Practice until you feel confident!
 
 ### . [Exercise solutions](./solutions_exercise_variables.md)
-
 Here you will find the solutions to the proposed exercises. If you don't try to do them on your own, you will never learn. Just use it as a comparison with your proposed solution.

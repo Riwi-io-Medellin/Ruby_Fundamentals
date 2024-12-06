@@ -29,9 +29,7 @@ Ruby is a dynamic, open-source programming language with a focus on simplicity a
 - Solutions: Operators
 
 ### 5. [Control Structures in Ruby](./05_control_structures/control_structures.md)
-- Conditional statements (if, else, elsif, unless)
-- Loops (while, until, for, each)
-- Case statement
+- Conditional statements (if, else, elsif, unless) Loops (while, until, for, each) Case statement
 - Exercises: Control Structures
 - Solutions: Control Structures
 

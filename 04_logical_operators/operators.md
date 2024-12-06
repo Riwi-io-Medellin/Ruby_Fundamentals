@@ -143,3 +143,7 @@ Comparison operators are used to compare two values. They return `true` or `fals
 ---
 
 With logical and comparison operators, you can build powerful conditional statements and control flows in your Ruby programs. Practice combining these operators to solidify your understanding!
+
+
+### [Go to practice exercise](./exercise_logical_operatos.md)
+These exercises provide hands-on practice with logical and comparison operators. After completing them, check your answers in the solutions file.
