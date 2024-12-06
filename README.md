@@ -34,11 +34,10 @@ Ruby is a dynamic, open-source programming language with a focus on simplicity a
 - Solutions: Control Structures
 
 
-### 6. **Methods in Ruby**
-   - Creating and using methods
-   - Parameters and return values
-   - Default arguments
-   - Blocks, procs, and lambdas
+### 6. [Methods in Ruby](./06_methods/methods.md)
+   - Creating and using methods / Parameters and return values / Default arguments /  Blocks, procs, and lambdas
+   - Exercises: Methods
+   - Solutions: Methods
 
 ### 7. **Data Types and Collections**
    - Strings, numbers, and booleans
