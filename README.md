@@ -1,4 +1,4 @@
-![banner python](images/ruby-banner.png)
+![banner ruby](images/ruby-banner.png)
 
 # Ruby Fundamentals
 
@@ -45,27 +45,12 @@ Ruby is a dynamic, open-source programming language with a focus on simplicity a
    - Exercises: Data Types and Collections
    - Solutions: Data Types and Collections
 
-### 8. **Classes and Objects**
+### 8. [Classes and Objects](./08_classes_objects_ruby/classes_objects_ruby.md)
    - Defining classes
    - Instance and class methods
    - Inheritance and mixins
 
-### 9. **Modules and Namespaces**
-   - What are modules?
-   - Mixing in modules
-   - Namespaces for code organization
-
-### 10. **Exception Handling**
-   - Using `begin`, `rescue`, `ensure`
-   - Raising and handling exceptions
-   - Custom exceptions
-
-### 11. **File I/O**
-   - Reading and writing files
-   - File modes and operations
-   - Working with directories
-
-### 12. **Working with Gems**
+### 9. [Working with Gems](./09_working_with_gems/working_with_gems.md)
    - What are gems?
    - Installing and using gems
    - Creating your own gem
